@@ -2,3 +2,5 @@ this is the fourth file
 and it is quite interesting 
 
 Its is well done so far
+Finally I found the wat how to push local branch to remote branch
+command is # git push origin localbranchname:remote branchname
