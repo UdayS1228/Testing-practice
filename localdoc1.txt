@@ -1,0 +1,1 @@
+It is the local document 1 created locally through command prompt
